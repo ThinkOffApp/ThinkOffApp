@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="ThinkOff — Cooperative intelligence, on your own hardware">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a1a"/>
+      <stop offset="55%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#121226"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="22%" cy="18%" r="55%">
+      <stop offset="0%" stop-color="#d4a5e9" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#d4a5e9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="85%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4a5e9"/>
+      <stop offset="50%" stop-color="#e8c5f5"/>
+      <stop offset="100%" stop-color="#f0d0f8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="22" fill="url(#glow1)"/>
+  <rect width="1200" height="280" rx="22" fill="url(#glow2)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="21" fill="none" stroke="#d4a5e9" stroke-opacity="0.28" stroke-width="1.5"/>
+
+  <!-- Subtle grid accent on right -->
+  <g stroke="#d4a5e9" stroke-opacity="0.08" stroke-width="1">
+    <line x1="820" y1="0" x2="820" y2="280"/>
+    <line x1="920" y1="0" x2="920" y2="280"/>
+    <line x1="1020" y1="0" x2="1020" y2="280"/>
+    <line x1="1120" y1="0" x2="1120" y2="280"/>
+    <line x1="760" y1="70" x2="1200" y2="70"/>
+    <line x1="760" y1="140" x2="1200" y2="140"/>
+    <line x1="760" y1="210" x2="1200" y2="210"/>
+  </g>
+
+  <!-- Brand eyebrow -->
+  <text x="64" y="76" fill="#d4a5e9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="600" letter-spacing="2.2">OPEN-SOURCE LOCAL AI · MULTI-AGENT SYSTEMS · HARDWARE BENCHMARKS</text>
+
+  <!-- Title -->
+  <text x="64" y="144" fill="url(#titleGrad)" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="62" font-weight="800" letter-spacing="-1.5">ThinkOff</text>
+
+  <!-- Tagline -->
+  <text x="64" y="186" fill="#e5e7eb" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">Cooperative intelligence, on your own hardware.</text>
+
+  <!-- Family pills -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600">
+    <rect x="64" y="212" width="122" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="125" y="233" text-anchor="middle" fill="#f0d0f8">CodeWatch</text>
+
+    <rect x="198" y="212" width="114" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="255" y="233" text-anchor="middle" fill="#f0d0f8">CarWatch</text>
+
+    <rect x="324" y="212" width="122" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="385" y="233" text-anchor="middle" fill="#f0d0f8">ClawWatch</text>
+
+    <rect x="458" y="212" width="132" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="524" y="233" text-anchor="middle" fill="#f0d0f8">WhereWatch</text>
+
+    <rect x="602" y="212" width="122" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="663" y="233" text-anchor="middle" fill="#f0d0f8">GroupMind</text>
+
+    <rect x="736" y="212" width="152" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="812" y="233" text-anchor="middle" fill="#f0d0f8">IDE Agent Kit</text>
+  </g>
+</svg>
