@@ -20,7 +20,6 @@
 | [**CodeWatch**](https://github.com/ThinkOffApp/codewatch-cli) | [Google Play](https://play.google.com/store/apps/details?id=com.thinkoff.codewatch) · [TestFlight](https://codewatch.app) · CLI | Talk to your coding agents from your phone, Wear OS / Apple Watch, or e-ink tablet. Approve gated actions, reply by voice, and share live agent rooms. |
 | [**CarWatch**](https://github.com/ThinkOffApp/CarWatch) | Self-hosted (Pi 5) · [carwatch.dev](https://carwatch.dev) | Your car as a chat-room agent: a Raspberry Pi 5 runs a 35B model fully offline, answers from the owner's manual, and messages you like a teammate. |
 | [**ClawWatch**](https://github.com/ThinkOffApp/ClawWatch) | Open-source (Wear OS) | The first smartwatch-native AI agent, with offline Vosk voice input, NullClaw runtime, live body sensors, and room connectivity right on a Galaxy Watch. |
-| [**WhereWatch**](https://github.com/ThinkOffApp/WhereWatch) | In development (ESP32 + Pi) | A wearable camera pendant that remembers where you left things. Fully local, zero cloud, with faces blurred before storage. |
 | [**RadWatch**](https://github.com/ThinkOffApp/radwatch) | Self-hosted (Python) | Continuous radiation logging and Poisson anomaly detection for RadiaCode 10x with local LLM explanations. *Arithmetic decides; the model explains.* |
 
 ## Multi-Agent Infrastructure
