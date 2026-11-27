@@ -56,13 +56,10 @@
     <rect x="324" y="212" width="122" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
     <text x="385" y="233" text-anchor="middle" fill="#f0d0f8">ClawWatch</text>
 
-    <rect x="458" y="212" width="132" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
-    <text x="524" y="233" text-anchor="middle" fill="#f0d0f8">WhereWatch</text>
+    <rect x="458" y="212" width="122" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="519" y="233" text-anchor="middle" fill="#f0d0f8">GroupMind</text>
 
-    <rect x="602" y="212" width="122" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
-    <text x="663" y="233" text-anchor="middle" fill="#f0d0f8">GroupMind</text>
-
-    <rect x="736" y="212" width="152" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
-    <text x="812" y="233" text-anchor="middle" fill="#f0d0f8">IDE Agent Kit</text>
+    <rect x="592" y="212" width="152" height="32" rx="16" fill="#1c1a34" stroke="#d4a5e9" stroke-opacity="0.4"/>
+    <text x="668" y="233" text-anchor="middle" fill="#f0d0f8">IDE Agent Kit</text>
   </g>
 </svg>
